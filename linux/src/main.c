@@ -86,6 +86,7 @@ void run_daemon() {
                 continue; 
             }
 
+            // configure where you want to save the files
             const char *save_dir = "/home/salman/Desktop/LinDriod";
             mkdir(save_dir, 0777); 
 
