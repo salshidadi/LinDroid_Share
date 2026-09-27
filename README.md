@@ -16,7 +16,7 @@ git clone https://github.com/salshidadi/LinDroid_Share.git
 ```
 
 ### Linux 
-Now change your directory to the linux file:
+Now change your directory to the linux folder:
 
 ```
 cd LinDroid_Share/linux
@@ -71,7 +71,7 @@ nemo -q
 
 ```
 
-Try to right click any file and you will the option for "Send via Airdrop" when you click it the file will transfer automatically in the background.
+Try to right click any file and you will see the option for "Send via Airdrop" when you click it the file will transfer automatically in the background.
 
 
 
@@ -100,6 +100,6 @@ Now you can run the program to listen for incoming files:
 Simply pull down your Quick Settings and tap the LinDroid tile to turn it on.
 This way your phone is running a background process listening for file sharing requests and saving files directly to your Downloads/LinDroid folder.
 
-Now what if you want to share a file from your phone?
+Now what if you want to share a file from your phone to the computer?
 
 You click the share button on any file you will find an option for LinDroid and when you click it the transfer process will run in the background and that's it.
