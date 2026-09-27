@@ -81,16 +81,16 @@ Now download the Android app to your phone:
 
 1.Go to the Releases tab on the right side of this GitHub page.
 
-2.Download the app-debug-androidTest.apk.
+2.Download the app-debug.apk.
 
 Then install the app on your device:
 Tap the downloaded APK file in your file manager to install it.
-(Note: you may need to tap "Settings" on the security popup and allow "Install unknown apps" since this is not downloaded from the Play Store).
+(Note: a pop up will probably appear saying the app is blocked since this is not downloaded from the Play Store just click "More details" then "Install anyway").
 
 #### Configuration
 You need to add LinDroid to your Quick Settings panel so you can easily turn the listening daemon on and off, so on your phone apply the following steps:
 
-1.Swipe down twice from the top of your screen to fully open the Quick Settings panel.
+1.Swipe down from the top of your screen to fully open the Quick Settings panel.
 
 2.Tap the edit icon (the pencil) to add a new button.
 
